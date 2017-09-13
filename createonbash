@@ -1,2 +1,6 @@
 This file is added under new branch on git bash
+<<<<<<< HEAD
 Modify thi file oon the git bash
+=======
+modify this file in git hub
+>>>>>>> f6d18384e9f22da3d3d10aaf9f30c964dfda14aa
